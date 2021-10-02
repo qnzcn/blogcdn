@@ -1,0 +1,11 @@
+.picasaweb{position:relative;min-height:75px;margin:8px 4px;font-size:12px;}
+.picasaweb .items{display:block;margin:0 auto;}
+.picasaweb .itemp{display:none;position:relative;margin:0 auto;}
+.picasaweb .itempp{display:none;background:#000;border-top:1px solid #999;opacity:0.5;filter:Alpha(Opacity=40);color:#FFF;position:absolute;bottom:0;left:0;line-height:28px !important;height:28px;width:100%;margin:0 !important;padding:0 !important;}
+.picasaweb .ptitle{margin-left:8px;}
+.picasaweb .pnum{position:absolute;bottom:0;right:8px;}
+.picasaweb img{display:block;border:0 none !important;margin:0 auto !important;padding:0 !important;-moz-box-shadow:#666 0px 0px 5px !important;box-shadow:#666 0px 0px 5px !important;}
+.picasaweb:hover .navi-l,.picasaweb:hover .navi-r,.picasaweb:hover .itempp{display:inline;}
+.navi-l,.navi-r{position:absolute;width:50px;height:75px;background-image:url(navi.png);top:50%;margin-top:-38px;z-index:1;cursor:pointer;display:none;}
+.navi-l{background-position:-150px;left:5px}.navi-l:hover{background-position:-100px}
+.navi-r{background-position:-50px;right:5px}.navi-r:hover{background-position:0}
