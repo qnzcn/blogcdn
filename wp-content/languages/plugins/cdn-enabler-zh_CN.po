@@ -1,0 +1,134 @@
+# Translation of Plugins - CDN Enabler &#8211; WordPress CDN Plugin - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - CDN Enabler &#8211; WordPress CDN Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-01 06:33:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - CDN Enabler &#8211; WordPress CDN Plugin - Development (trunk)\n"
+
+#: inc/cdn_enabler.class.php:263 inc/cdn_enabler.class.php:275
+#: inc/cdn_enabler.class.php:281
+msgid "HTTP returned "
+msgstr "HTTP返回"
+
+#: inc/cdn_enabler.class.php:221
+msgid "Error connecting to API - "
+msgstr "连接到API时出错-"
+
+#: inc/cdn_enabler_settings.class.php:119
+msgid ""
+"\n"
+"           <div class=\"notice notice-info\">\n"
+"               <p>Combine CDN Enabler with <b><a href=\"%s\">%s</a></b> for even faster WordPress performance.</p>\n"
+"           </div>"
+msgstr ""
+"\n"
+"<div class=\"notice notice-info\">\n"
+"               <p>将CDN启动器与 <b><a href=\"%s\">%s</a></b> 一起使用，可以获得更好的性能体验。</p>\n"
+"           </div>"
+
+#: inc/cdn_enabler.class.php:247
+msgid "HTTP returned 200 but no message received."
+msgstr "HTTP返回200，但未收到任何消息。"
+
+#: inc/cdn_enabler_settings.class.php:237
+msgid "KeyCDN Zone ID of the zone to purge on request"
+msgstr "要请求清除的区域的KeyCDN区域ID"
+
+#: inc/cdn_enabler_settings.class.php:230
+msgid "KeyCDN Zone ID"
+msgstr "KeyCDN区域ID"
+
+#: inc/cdn_enabler_settings.class.php:221
+msgid "KeyCDN API key to purge zone on request"
+msgstr "可根据要求清除区域的KeyCDN API密钥"
+
+#: inc/cdn_enabler_settings.class.php:214
+msgid "KeyCDN API Key"
+msgstr "KeyCDN API密钥"
+
+#: inc/cdn_enabler.class.php:156 inc/cdn_enabler.class.php:157
+#: inc/cdn_enabler.class.php:168 inc/cdn_enabler.class.php:169
+msgid "Purge CDN"
+msgstr "清除CDN"
+
+#: inc/cdn_enabler_settings.class.php:178
+msgid "Enter the exclusions (directories or extensions) separated by"
+msgstr "请输入需要排除的目录名或者文件后缀"
+
+#: inc/cdn_enabler_settings.class.php:168
+msgid "Exclusions"
+msgstr "排除项目"
+
+#. Author URI of the plugin
+msgid "https://www.keycdn.com"
+msgstr "https://www.keycdn.com"
+
+#. Author of the plugin
+msgid "KeyCDN"
+msgstr "KeyCDN"
+
+#. Description of the plugin
+msgid "Simply integrate a Content Delivery Network (CDN) into your WordPress site."
+msgstr "【CDN启动器】简单将内容分发网络（CDN）集成到您的WordPress网站中。"
+
+#. Plugin Name of the plugin
+msgid "CDN Enabler"
+msgstr "CDN Enabler"
+
+#: inc/cdn_enabler_settings.class.php:206
+msgid "Enable CDN for HTTPS connections (default: disabled)."
+msgstr "为CDN启用HTTPS链接（默认：禁用）"
+
+#: inc/cdn_enabler_settings.class.php:200
+msgid "CDN HTTPS"
+msgstr "CDN HTTPS"
+
+#: inc/cdn_enabler_settings.class.php:192
+msgid "Enable CDN for relative paths (default: enabled)."
+msgstr "为相对路径启用CDN（默认：启用）"
+
+#: inc/cdn_enabler_settings.class.php:186
+msgid "Relative Path"
+msgstr "相对路径"
+
+#: inc/cdn_enabler_settings.class.php:174
+msgid "Default: <code>.php</code>"
+msgstr "默认值：<code>.php</code>"
+
+#: inc/cdn_enabler_settings.class.php:160
+msgid "Assets in these directories will be pointed to the CDN URL. Enter the directories separated by"
+msgstr "这些目录中的文件将重定向到CDN URL。 输入目录名，用"
+
+#: inc/cdn_enabler_settings.class.php:156
+msgid "Default: <code>wp-content,wp-includes</code>"
+msgstr "默认值：<code>wp-content,wp-includes</code>"
+
+#: inc/cdn_enabler_settings.class.php:150
+msgid "Included Directories"
+msgstr "包含目录"
+
+#: inc/cdn_enabler_settings.class.php:142
+msgid "Enter the CDN URL without trailing"
+msgstr "输入CDN URL，结尾不能是"
+
+#: inc/cdn_enabler_settings.class.php:133
+msgid "CDN URL"
+msgstr "CDN网址"
+
+#: inc/cdn_enabler_settings.class.php:109
+msgid "CDN Enabler Settings"
+msgstr "CDN Enabler 设置"
+
+#: inc/cdn_enabler.class.php:384
+msgid "CDN Enabler is optimized for WordPress %s. Please disable the plugin or upgrade your WordPress installation (recommended)."
+msgstr "CDN Enabler已针对WordPress%s进行了优化。 请禁用该插件或升级WordPress版本（推荐）"
+
+#: inc/cdn_enabler.class.php:328
+msgid "Settings"
+msgstr "设置"

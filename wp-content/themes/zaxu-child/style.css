@@ -1,0 +1,20 @@
+/*
+Theme Name: ZAXU CHILD
+Theme URI: http://zaxu.com
+Author: ZAXU
+Author URI: http://zaxu.com
+Description: A basic child theme for the ZAXU theme.
+Template: zaxu
+Version: 1.0.6
+Tested up to: 5.4.2
+Requires at least: 4.4
+Requires PHP: 5.6
+*/
+
+/* --------------------------------------
+-----   Theme customization starts here   -----
+------------------------------------------*/
+
+@media (prefers-color-scheme: dark) {
+	/* Dark mode customization starts here */
+}
